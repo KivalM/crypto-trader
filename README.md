@@ -16,7 +16,7 @@ The time offset helps us maximise profits while minimising losses. It's pretty m
 
 The problem occurs when determining the optimal values for x and y that maximise the profit on the rise and the optimal z and t values that minimise losses on a dip. However, computers today are powerful, and we can simulate transactions based on past data to determine the best values. (See /src/test/README.md)
 
-The Optimal values i have discovered based on the last 6 months of data are as follows:
+The Optimal values i have discovered based on the last 6 months of data for BTC and ETH are as follows:
 
 - UP = 0.16%;
 - DOWN= -1.15%;
