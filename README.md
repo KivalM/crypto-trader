@@ -1,3 +1,6 @@
+# NO LONGER UPDATING
+# USE [https://github.com/StarPlatin4m/auto-trader](https://github.com/StarPlatin4m/auto-trader) instead
+
 # Binance Trader
 
 This is an auto trading bot for the binance.com exchange
